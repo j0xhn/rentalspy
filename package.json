@@ -1,0 +1,16 @@
+{
+  "name": "rentalspy",
+  "version": "1.0.0",
+  "description": "historical rental data",
+  "main": "server.js",
+  "dependencies": {},
+  "devDependencies": {
+    "s3": "^4.4.0"
+  },
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "author": "John D. Storey",
+  "license": "MIT"
+}
